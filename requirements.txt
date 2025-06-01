@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+nltk
+scikit-learn
+joblib
+gradio
+datefinder
+xlrd
